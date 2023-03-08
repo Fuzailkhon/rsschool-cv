@@ -21,4 +21,11 @@
 * MySQL
 * WebStorm, VS, PyCharm
 
-
+## Some JavaScript Code
+```
+// Using Temporal API
+const nowDate = Temporal.now.plainDateISO()
+const nowTime = Temporal.now.plainTimeISO()
+console.log(nowDate.toString()) // 2023-03-08
+console.log(nowTime.toString()) // 19:56:34.4563834
+```
