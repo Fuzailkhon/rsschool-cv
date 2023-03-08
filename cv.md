@@ -13,7 +13,7 @@
 * HTML/CSS 
 * JavaScript PHP C++ Python
 * Github/Git
-* Jira
+* Jira Bitbucket
 * SQL
 * MySQL
 * WebStorm, VS, PyCharm
