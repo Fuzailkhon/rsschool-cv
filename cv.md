@@ -6,7 +6,7 @@
 ### __Telegram__: @fuzailkhon
 #### Feel free to contact Mon - Thur other days migh be busy
 ### Languages:
-* English Русский
+* English Русский Узбекский
 ## Achievements: 
 ### Sites: [Ultramax](https://ultramax-rb.uz) ; [Extravagant](https://extravagant.uz)
 ## Skills: 
