@@ -1,1 +1,1 @@
-# rsschool-cv
+[https://fuzailkhon.github.io/rsschool-cv/cv]

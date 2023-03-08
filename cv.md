@@ -7,7 +7,7 @@
 ### __Telegram__: @fuzailkhon
 #### Feel free to contact Mon - Thur other days migh be busy
 ### Languages:
-* English Русский Узбекски
+* English / Русский / Узбекский
 
 ===================================================================================
 ## Achievements: 
